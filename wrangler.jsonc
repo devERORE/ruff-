@@ -1,6 +1,6 @@
 {
   "name": "ruff-visa",
-  "compatibility_date": "2025-04-01",
+  "compatibility_date": "2025-05-05",
   "compatibility_flags": ["nodejs_compat"],
   "pages_build_output_dir": ".open-next/assets",
   "observability": {
