@@ -1,0 +1,16 @@
+{
+  "name": "ruff-visa",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": ".open-next/assets",
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ruff-visa-db",
+      "database_id": "7f1466be-b8f0-4330-a930-96434fbfdaa3"
+    }
+  ]
+}
